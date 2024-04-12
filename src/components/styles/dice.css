@@ -1,0 +1,348 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+
+/* linear-gradient(to bottom right , rgb(227, 66, 66) 50%, rgb(92, 246, 92)50%); */
+
+
+.set {
+  position: absolute;
+  right: 3%;
+  top: 10%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 1px;
+  cursor: pointer;
+}
+
+@media only screen and (max-width: 768px) {
+  .set {
+    display: none;
+  }
+}
+
+.set span {
+  color: maroon;
+  font-size: 20px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+.setting {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+}
+
+.setting-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  bottom: 10%;
+  left: 40%;
+  right: 40%;
+  position: absolute;
+}
+.setting-container span{
+    display: none;
+}
+.setting-container button {
+  outline: none;
+  border: none;
+  width: 50px;
+  height: 30px;
+  border-radius: 5px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: white;
+  background-color: maroon;
+}
+
+@media only screen and (max-width: 768px) {
+    .setting-container{
+        flex-direction: column-reverse;
+        bottom: 93%;
+        left: 77%;
+
+    }
+    .setting-container span{
+        display: block;
+        margin-bottom: -10px;
+    }
+}
+
+.setting {
+  top: 40;
+}
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  text-align: center;
+  margin-top: 3rem;
+}
+
+@media only screen and (max-width: 768px) {
+    .container{
+        flex-direction: column;
+        justify-content: center;
+        margin-bottom: -2rem;
+        overflow: hidden;
+
+    }
+    .player2{
+    margin-top: 120px;
+    }
+  }
+
+.player1,
+.player2 {
+  color: maroon;
+}
+
+.score-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 2rem;
+  margin-top: 40px;
+}
+
+.score-container span {
+  color: maroon;
+}
+@media only screen and (max-width: 768px) {
+    .score-container{
+        margin-top: -5px;
+    }
+    .player2{
+      margin-top: 75px;
+    }
+    .player1{
+      margin-bottom: -10px;
+      margin-top: 5px;
+    }
+}
+/* .score, */
+.total-score {
+  background-color: maroon;
+  width: 50px;
+  color: white;
+  height: 30px;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 6px;
+  margin-top: 1rem;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+@media only screen and (max-width: 768px) {
+     .total-score{
+        flex-direction: column;
+        margin-top: -2px;
+        width: 55px;
+        font-size: 15px;
+    }
+    
+}
+.dice-center {
+  background: url("../media/board.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 20vw;
+  background-size: contain;
+  height: 50vh;
+  position: relative;
+}
+@media only screen and (max-width: 768px) {
+  .dice-center {
+    width: 100vw;
+    height: 50vh;
+    position: relative;
+    overflow: none;
+    margin: -35px 0;
+    z-index: 0;
+  }
+}
+
+.dice-center .img1 {
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  top: 45%;
+  left: 50%;
+}
+.dice-center .img2 {
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  top: 45%;
+  left: 30%;
+}
+
+@media only screen and (max-width: 768px) {
+  .dice-center .img1,
+  .dice-center .img2 {
+    width: 60px;
+    height: 60px;
+    position: absolute;
+  }
+  .dice-center .img1 {
+    left: 53%;
+    /* top: 53%; */
+  }
+  .dice-center .img2 {
+    left: 35%;
+    /* top: 53%; */
+  }
+}
+
+
+
+.dice-roll,
+.dice-roll2 {
+    width: 85px;
+    height: 85px;
+    margin-top: 3rem;
+    border-radius: 50%;
+    margin: 30px auto;
+    /* background-color: mediumvioletred; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+@media only screen and (max-width: 768px) {
+    .dice-roll{
+        width: 75px;
+        height: 75px;
+        margin:10px 60px;
+    }
+    .dice-roll2{
+      width: 75px;
+        height: 75px;
+        margin-bottom:-70px;
+    }
+  }
+@keyframes slidein {
+    from {
+        transform: rotate(360deg);
+    }
+    to {
+        transform: rotate(0);
+    }
+}
+.rol1 {
+  outline: none;
+  border: none;
+  width: 50px;
+  height: 50px;
+  background-color: maroon;
+  border-radius: 50%;
+  color: white;
+
+}
+
+
+@media only screen and (max-width: 768px) {
+    .rol1{
+      width: 50px;
+      height: 50px;
+    }
+    .dice-roll2 .rol1{
+      margin-top: 20px;
+      position: absolute;
+      bottom:300%;
+      margin-bottom: -1rem;
+    }
+    
+  }
+.anim {
+  animation: 0.4s linear infinite slidein;
+  animation-duration: 400ms;
+}
+
+
+.winner {
+  position: absolute;
+  background-color: rgba(0, 0, 0, 0.393);
+  z-index: 10;
+  text-align: center;
+  height: 100vh;
+  width: 100vw;
+  overflow: hidden;
+}
+.remove{
+  background-color: none;
+}
+@media only screen and (max-width:768px) {
+  .winner {
+    height: 100vh;
+    width: 100vw;
+    z-index: 10;
+    overflow: hidden;
+    top: 0;
+    bottom:0 ;
+  }
+}
+.winner button {
+  outline: none;
+  border: none;
+  width: 80px;
+  height: 40px;
+  border-radius: 5px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: white;
+  background-color: maroon;
+  position: absolute;
+  left: 2%;
+  top: 2%;
+}
+
+
+.wins {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  overflow: hidden;
+}
+.win {
+  text-align: center;
+  position: absolute;
+  color:white;
+  bottom:70%;
+}
+
+@media only screen and (max-width:768px) {
+  .win{
+    position: absolute;
+    bottom: 60%;
+  }
+  .winner button {
+    width: 40px;
+    height: 40px;
+  }
+  
+}
+.wins img {
+  width: 250px;
+  height: 250px;
+  position: absolute;
+  top: 40%;
+}
+
+
+@media only screen and (max-width:768px){
+  .wins img{
+    position: absolute;
+    top: 40%;
+  }
+}
