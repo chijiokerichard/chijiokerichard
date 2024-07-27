@@ -1,0 +1,39 @@
+.form{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 50px;
+    width: 100%;
+    position: relative;
+}
+.input{
+    outline: none;
+    border-radius: 13px;
+    height: 45px;
+    width: 400px;
+    border: 1px solid rgb(222, 216, 216);
+    padding-left: 10px;
+    box-shadow: 0px 0.4px 0px 0px;
+    z-index: 1;
+    
+}
+button{
+    border: none;
+    outline: none;
+    transform: rotate(90deg);
+    position: absolute;
+    top: 22%;
+    right: 49%;
+    background-color: rgba(99, 99, 234, 0.797);
+    height: 30px ;
+    width: 30px;
+    border-radius: 5px;
+    color: white;
+}
+.input::placeholder{
+    padding-left: 0.5rem;
+    font-family: serif;
+    font-size: 20px;
+    color: rgb(230, 226, 226);
+    z-index: 0;
+}

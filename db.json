@@ -1,0 +1,18 @@
+
+{
+  "users": [
+    {
+      "id": 931,
+      "username": "chijioke",
+      "email": "chijioke234@gmail.com",
+      "password": "234...",
+      "img":"/src/new/img/img-1.png"
+    },
+    {
+      "id": 197,
+      "username": "joy",
+      "email": "joy@gmail.com",
+      "password": "2222"
+    }
+  ]
+}
