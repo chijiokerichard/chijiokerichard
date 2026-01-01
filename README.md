@@ -1,10 +1,10 @@
  Hi there 👋
  
-I’m Chijioke, a frontend engineer.<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey 👋 What's up?</h1>
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is Chijioke and I'm a frontend engineer</p>
 
 ###
 
@@ -14,7 +14,19 @@ I’m Chijioke, a frontend engineer.<h1 align="left">Hey 👋 What's up?</h1>
 
 <p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
 
+
+
 ###
+
+- 🔭 I’m currently working on washhub,
+- 🌱 I’m currently deeping my knowledge in redux,
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+  ###
 
 <h2 align="left">I code with</h2>
 
@@ -35,17 +47,5 @@ I’m Chijioke, a frontend engineer.<h1 align="left">Hey 👋 What's up?</h1>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
 </div>
-
-###
-
-- 🔭 I’m currently working on washhub,
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
