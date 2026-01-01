@@ -2,7 +2,7 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
 <p>My name is Chijioke and I'm a frontend engineer</p>
-<p>I love turning ideas into products that scale</p>
+I love turning ideas into products that scale
 <h2 align="left">About me</h2>
 
 ###
@@ -16,7 +16,6 @@ Coldplay is my favorite band. 🎸
 If you're building something bold and useful, I'd love to connect.
 
 <h2 align="left">I code with</h2>
-###
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
