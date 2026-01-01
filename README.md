@@ -1,8 +1,8 @@
 
 <h1 align="left">Hey 👋 What's up?</h1>
 
-  My name is Chijioke and I'm a frontend engineer
-- I love turning ideas into products that scale
+<p>My name is Chijioke and I'm a frontend engineer</p>
+<p>I love turning ideas into products that scale</p>
 <h2 align="left">About me</h2>
 
 ###
