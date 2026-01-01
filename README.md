@@ -7,12 +7,14 @@
 
 ###
 I’m currently working on washhub application,
-Fun Facts:
 When I'm not coding, you'll find me watching movies or mentoring beginners. I believe in the power of knowledge sharing and community building.
-Along with developing products, I love the business. 📈
+###
+Fun Facts:<br>
+Along with developing products, I love the business. 📈 <br>
 Coldplay is my favorite band. 🎸
+ <br>
 If you're building something bold and useful, I'd love to connect.
-s
+
 <h2 align="left">I code with</h2>
 ###
 <div align="left">
