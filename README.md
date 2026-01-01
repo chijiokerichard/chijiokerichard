@@ -33,3 +33,5 @@ When I’m not at the terminal, I’m usually watching movies or **mentoring the
 * **Business Minded:** Along with developing products, I love the business side. 📈
 * **Soundtrack:** **Coldplay** is my favorite band. 🎸
 * **Let's Connect:** If you're building something bold and useful, I'd love to connect.
+📬 How to reach me
+<p align="left"> <a href="mailto:your.email@example.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /> </a> <a href="https://linkedin.com/in/your-username"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="https://twitter.com/your-username"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /> </a> </p>
