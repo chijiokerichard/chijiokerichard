@@ -8,9 +8,10 @@ I’m architecting a High-Concurrency Vehicle Booking Platform. My focus is on b
 
 ### 🧠 Current Focus
 Framer Motion — I’m diving into declarative animations to create more intuitive and "alive" user experiences. I'm currently focused on:
--AnimatePresence for smooth entry/exit transitions.
--Gestures (drag, hover, tap) to make interfaces feel more mobile-native.
--Layout Animations for seamless component transitions.
+<br>
+- AnimatePresence for smooth entry/exit transitions.
+- Gestures (drag, hover, tap) to make interfaces feel more mobile-native.
+- Layout Animations for seamless component transitions.
 ### 💡 About me
 When I’m not at the terminal, I’m usually watching movies or **mentoring the next generation of engineers**. I’m a firm believer that knowledge sharing is the fastest way to build world-class engineering cultures.
 
