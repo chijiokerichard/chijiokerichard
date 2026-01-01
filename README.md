@@ -1,34 +1,35 @@
+# Hi, I'm Chijioke 👋
 
-<h1 align="left">Hi, I'm Chijioke 👋</h1>
-<b><h3>Frontend Developer | Building Scalable Digital Products</h3></b> <br>
+### Frontend Developer | Building Scalable Digital Products
+
 I love turning ideas into products that scale.
 
+---
 
-<h2>🚀Currently Working On</h2>
-I’m currently focused on CarHub, an application designed to streamline car service logistics.<br>
-<h2 align="left">About me</h2>
-When I’m not at the terminal, I’m usually watching movies or mentoring the next generation of engineers.<br> I’m a firm believer that knowledge sharing is the fastest way to build world-class engineering cultures
+### 🚀 Currently Working On
+I’m currently focused on **CarHub**, an application designed to streamline car service logistics.
 
-<h2 align="left">🛠 Tech Stack</h2>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" title="Redux" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwindcss logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" title="Django" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" title="MongoDB" />
+### 💡 About me
+When I’m not at the terminal, I’m usually watching movies or **mentoring the next generation of engineers**. I’m a firm believer that knowledge sharing is the fastest way to build world-class engineering cultures.
+
+### 🛠 Tech Stack
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" title="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" title="Tailwind CSS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" title="MUI" />
-  <img src="https://pagepro.co/blog/wp-content/uploads/2020/03/framer-motion.png" height="40" title="Framer Motion" />
-</div>
-<h3>Fun Facts</h3>
-Along with developing products, I love the business. 📈 <br>
-Coldplay is my favorite band. 🎸
- <br>
-If you're building something bold and useful, I'd love to connect.
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" title="Redux" />
+  <img src="https://raw.githubusercontent.com/pmndrs/zustand/main/docs/favicon.ico" height="40" title="Zustand" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" title="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" title="Django" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" title="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" title="MongoDB" />
+</p>
 
+---
 
+### 📈 Fun Facts
+* **Business Minded:** Along with developing products, I love the business side. 📈
+* **Soundtrack:** **Coldplay** is my favorite band. 🎸
+* **Let's Connect:** If you're building something bold and useful, I'd love to connect.
