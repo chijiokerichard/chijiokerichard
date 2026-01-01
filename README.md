@@ -37,7 +37,7 @@ When I’m not at the terminal, I’m usually watching movies or **mentoring the
 </p>
 
 ### 🏆 Certifications
-* **JavaScript Algorithms & Data Structures:** freeCodeCamp.
+* **JavaScript Algorithms & Data Structures:**(https://www.freecodecamp.org/certification/fcc60fad907-4e41-412f-8cab-46bf348c7f85/javascript-algorithms-and-data-structures) freeCodeCamp.
 
 ### 📈 Fun Facts
 * **Business Minded:** Along with developing products, I love the business side. 📈
