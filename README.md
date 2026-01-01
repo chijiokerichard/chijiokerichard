@@ -1,7 +1,7 @@
 
 <h1 align="left">Hi, I'm chijioke 👋</h1>
 <b><h3>Frontend Engineer | Building Scalable Digital Products</h3></b> <br>
-I love turning ideas into products that scale. I bridge the gap between complex engineering and elegant user experiences.
+I love turning ideas into products that scale.
 
 
 <h2>🚀Currently Working On</h2>
