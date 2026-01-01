@@ -1,5 +1,5 @@
 
-<h1 align="left">Hi, I'm chijioke 👋</h1>
+<h1 align="left">Hi, I'm Chijioke 👋</h1>
 <b><h3>Frontend Developer | Building Scalable Digital Products</h3></b> <br>
 I love turning ideas into products that scale.
 
@@ -9,13 +9,7 @@ I’m currently focused on CarHub, an application designed to streamline car ser
 <h2 align="left">About me</h2>
 When I’m not at the terminal, I’m usually watching movies or mentoring the next generation of engineers.<br> I’m a firm believer that knowledge sharing is the fastest way to build world-class engineering cultures
 
-<h3>Fun Facts</h3>
-Along with developing products, I love the business. 📈 <br>
-Coldplay is my favorite band. 🎸
- <br>
-If you're building something bold and useful, I'd love to connect.
-
-<h2 align="left">I code with</h2>
+<h2 align="left">🛠 Tech Stack</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
@@ -31,4 +25,10 @@ If you're building something bold and useful, I'd love to connect.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" title="MUI" />
   <img src="https://pagepro.co/blog/wp-content/uploads/2020/03/framer-motion.png" height="40" title="Framer Motion" />
 </div>
+<h3>Fun Facts</h3>
+Along with developing products, I love the business. 📈 <br>
+Coldplay is my favorite band. 🎸
+ <br>
+If you're building something bold and useful, I'd love to connect.
+
 
