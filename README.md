@@ -7,7 +7,7 @@ I love turning ideas into products that scale
 
 ###
 I’m currently working on washhub application,
-When I'm not coding, you'll find me watching movies or mentoring beginners. I believe in the power of knowledge sharing and community building.
+When I’m not at the terminal, I’m usually watching movies or mentoring the next generation of engineers. I’m a firm believer that knowledge sharing is the fastest way to build world-class engineering cultures
 ###
 Fun Facts:<br>
 Along with developing products, I love the business. 📈 <br>
