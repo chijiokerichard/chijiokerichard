@@ -40,7 +40,7 @@ When I’m not at the terminal, I’m usually watching movies or **mentoring the
 * [**JavaScript Algorithms & Data Structures**](https://www.freecodecamp.org/certification/fcc60fad907-4e41-412f-8cab-46bf348c7f85/javascript-algorithms-and-data-structures) – freeCodeCamp
 
 ### 📈 Fun Facts
-* **Business Minded:** Along with developing products, I love the business side. 📈
+* **Business Minded:** Along with developing products, I love the business side. 📈 
 * **Soundtrack:** **Coldplay** is my favorite band. 🎸
 * **Let's Connect:** If you're building something bold and useful, I'd love to connect.
 ### 📬 How to reach me
