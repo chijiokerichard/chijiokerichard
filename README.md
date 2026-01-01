@@ -6,7 +6,8 @@ I love turning ideas into products that scale. I bridge the gap between complex 
 <h2 align="left">About me</h2>
 
 ###
-I’m currently working on washhub application,<br>
+🚀 Currently Working On
+I’m currently focused on WashHub, an application designed to [insert one-sentence goal of WashHub, e.g., "streamline laundry service logistics"].
 When I’m not at the terminal, I’m usually watching movies or mentoring the next generation of engineers. I’m a firm believer that knowledge sharing is the fastest way to build world-class engineering cultures
 ###
 Fun Facts:<br>
