@@ -1,8 +1,5 @@
-## Hi there 👋
-
-**chijiokerichard/chijiokerichard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
+ Hi there 👋
+ 
 I’m Chijioke, a frontend engineer.
 - 🔭 I’m currently working on washhub,
 - 🌱 I’m currently learning ...
