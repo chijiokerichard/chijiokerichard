@@ -5,11 +5,11 @@ I love turning ideas into products that scale. I bridge the gap between complex 
 
 ###
 <h2>🚀Currently Working On</h2>
-I’m currently focused on WashHub, an application designed to streamline cars service logistics.<br>
+I’m currently focused on CarHub, an application designed to streamline car service logistics.<br>
 <h2 align="left">About me</h2>
 When I’m not at the terminal, I’m usually watching movies or mentoring the next generation of engineers.<br> I’m a firm believer that knowledge sharing is the fastest way to build world-class engineering cultures
 ###
-Fun Facts:<br>
+<h3></h3>Fun Facts</h3>
 Along with developing products, I love the business. 📈 <br>
 Coldplay is my favorite band. 🎸
  <br>
