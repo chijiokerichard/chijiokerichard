@@ -8,6 +8,10 @@ I’m architecting a High-Concurrency Vehicle Booking Platform. My focus is on b
 ### 💡 About me
 When I’m not at the terminal, I’m usually watching movies or **mentoring the next generation of engineers**. I’m a firm believer that knowledge sharing is the fastest way to build world-class engineering cultures.
 
+###🧠 Current Focus
+I am currently mastering Framer Motion to bridge the gap between static interfaces and fluid,<br> meaningful user experiences. I’m focusing on gesture-based interactions and complex layout animations.
+
+
 ### 🛠 Tech Stack
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" title="React" />
@@ -21,6 +25,10 @@ When I’m not at the terminal, I’m usually watching movies or **mentoring the
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" title="Django" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" title="PostgreSQL" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" title="MongoDB" />
+  <p align="left">
+  <img src="https://pagepro.co/blog/wp-content/uploads/2020/03/framer-motion.png" height="40" title="Framer Motion (Learning)" />
+  <span><i>(Currently mastering Framer Motion 🚀)</i></span>
+</p>
 </p>
 
 ### 📈 Fun Facts
