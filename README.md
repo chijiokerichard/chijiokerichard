@@ -1,8 +1,8 @@
 
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hi, I'm chijioke 👋</h1>
 
-<p>My name is Chijioke and I'm a frontend engineer</p>
-I love turning ideas into products that scale
+Senior Frontend Engineer | Building Scalable Digital Products
+I love turning ideas into products that scale. I bridge the gap between complex engineering and elegant user experiences.
 <h2 align="left">About me</h2>
 
 ###
