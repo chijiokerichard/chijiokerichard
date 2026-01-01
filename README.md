@@ -5,11 +5,12 @@ I love turning ideas into products that scale.
 ---
 ### 🚀 Currently Working On
 I’m architecting a High-Concurrency Vehicle Booking Platform. My focus is on building a seamless, type-safe frontend that handles complex state management for real-time scheduling and inventory availability
+
+### 🧠 Current Focus
+I am currently mastering Framer Motion to bridge the gap between static interfaces and fluid,<br> meaningful user experiences. I’m focusing on gesture-based interactions and complex layout animations.
 ### 💡 About me
 When I’m not at the terminal, I’m usually watching movies or **mentoring the next generation of engineers**. I’m a firm believer that knowledge sharing is the fastest way to build world-class engineering cultures.
 
-###🧠 Current Focus
-I am currently mastering Framer Motion to bridge the gap between static interfaces and fluid,<br> meaningful user experiences. I’m focusing on gesture-based interactions and complex layout animations.
 
 
 ### 🛠 Tech Stack
