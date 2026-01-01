@@ -2,9 +2,9 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
-
 <p align="left">My name is Chijioke and I'm a frontend engineer</p>
-
+<p align="left">I love turning ideas into ideas into products that scale.
+</p>
 ###
 
 <h2 align="left">About me</h2>
