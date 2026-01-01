@@ -1,7 +1,7 @@
 
 <h1 align="left">Hi, I'm chijioke 👋</h1>
 
-<bold><strong>Senior Frontend Engineer | Building Scalable Digital Products</strong></bold> <br>
+<b><h3>Senior Frontend Engineer | Building Scalable Digital Products</h3></b> <br>
 I love turning ideas into products that scale. I bridge the gap between complex engineering and elegant user experiences.
 <h2 align="left">About me</h2>
 
