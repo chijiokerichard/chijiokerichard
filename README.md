@@ -4,7 +4,7 @@
 I love turning ideas into products that scale.
 ---
 ### 🚀 Currently Working On
-I’m currently focused on a **Logistics & Service Management Platform** for a private client. I am architecting the frontend to handle complex scheduling workflows and real-time logistics tracking using React and TypeScript.
+I’m architecting a High-Concurrency Vehicle Booking Platform. My focus is on building a seamless, type-safe frontend that handles complex state management for real-time scheduling and inventory availability
 ### 💡 About me
 When I’m not at the terminal, I’m usually watching movies or **mentoring the next generation of engineers**. I’m a firm believer that knowledge sharing is the fastest way to build world-class engineering cultures.
 
