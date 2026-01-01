@@ -35,8 +35,9 @@ When I’m not at the terminal, I’m usually watching movies or **mentoring the
   <img src="https://pagepro.co/blog/wp-content/uploads/2020/03/framer-motion.png" height="40" title="Framer Motion (Learning)" />
   <span><i>(Currently mastering Framer Motion 🚀)</i></span>
 </p>
+
 ### 🏆 Certifications
-* **JavaScript Algorithms & Data Structures** – freeCodeCamp
+* **JavaScript Algorithms & Data Structures:** freeCodeCamp.
 
 ### 📈 Fun Facts
 * **Business Minded:** Along with developing products, I love the business side. 📈
