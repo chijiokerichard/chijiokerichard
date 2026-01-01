@@ -1,14 +1,13 @@
 
 <h1 align="left">Hi, I'm chijioke 👋</h1>
-
 <b><h3>Senior Frontend Engineer | Building Scalable Digital Products</h3></b> <br>
 I love turning ideas into products that scale. I bridge the gap between complex engineering and elegant user experiences.
 <h2 align="left">About me</h2>
 
 ###
-🚀 <h2>Currently Working On</h2><br>
-I’m currently focused on WashHub, an application designed to streamline cars service logistics. <br>
-When I’m not at the terminal, I’m usually watching movies or mentoring the next generation of engineers. I’m a firm believer that knowledge sharing is the fastest way to build world-class engineering cultures
+<h2>🚀Currently Working On</h2>
+I’m currently focused on WashHub, an application designed to streamline cars service logistics.<br>
+When I’m not at the terminal, I’m usually watching movies or mentoring the next generation of engineers.<br> I’m a firm believer that knowledge sharing is the fastest way to build world-class engineering cultures
 ###
 Fun Facts:<br>
 Along with developing products, I love the business. 📈 <br>
