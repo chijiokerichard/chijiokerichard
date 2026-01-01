@@ -6,7 +6,7 @@ I love turning ideas into products that scale
 <h2 align="left">About me</h2>
 
 ###
-I’m currently working on washhub application,
+I’m currently working on washhub application,<br>
 When I’m not at the terminal, I’m usually watching movies or mentoring the next generation of engineers. I’m a firm believer that knowledge sharing is the fastest way to build world-class engineering cultures
 ###
 Fun Facts:<br>
